@@ -1,0 +1,2 @@
+# GuruAI
+AI for Teaching
